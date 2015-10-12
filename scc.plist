@@ -32,10 +32,10 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>com.genvision.hcc</key>
-				<string>com.primeton.ayapp.test17</string>
-				<key>1.1</key>
-				<string>1.0</string>
+				<key>bundle-identifier</key>
+				<string>com.genvision.hcc</string>
+				<key>bundle-version</key>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
